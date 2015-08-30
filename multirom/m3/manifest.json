@@ -8,55 +8,55 @@
 			{"files":
 				[
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom-20141216-v30c-UNOFFICIAL-jflte.zip",
+						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/multirom/m3/TWRP_multirom_m3_20150829-00.img",
 						"version": "32",
 						"type": "multirom",
-						"size": 3588014,
-						"md5": "fb67d6c36d0017f43a60e47fcf91c012"
+						"size": 3599041,
+						"md5": "F9FCB7802D928387FF5475C016CBD41C"
 					},
 					{
 						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/TWRP_multirom_jflte_20141216-00.img",
 						"version": "mrom20141216-00",
 						"type": "recovery",
-						"size": 10409984,
-						"md5": "a7d5b879d419107767e0ff17d9e7d1e6"
+						"size": 7958528,
+						"md5": "0AC79AD24DF54114DA6A69FC2620C515"
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/CM-5.0/Kernel-Alucard-V1.0f.zip",
-						"version": "Alucard v1.0f - CM12 ROM",
-						"md5": "8b9b3ba00030f1817accf6af88a950ce",
+						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/kernels/PSN_AGNi_pureSTOCK-v5.9.3-4.4.x_I9305_AROMA.zip",
+						"version": "AGNi PureSTOCK v5.9.3",
+						"md5": "5A9FA88934065DA434ABABF9C548A92B",
 						"type": "kernel",
-						"size": 11228431
+						"size": 9303115
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/AntaresOne/Alucard-Kernel/blob/AOSP-CM-4.4-v2/Kernel-Alucard-V1.4r.zip",
-						"version": "Alucard v1.4r - AOSP/CM11 ROMs after 6 Aug",
-						"md5": "78dedffd8d70bab721b8011aabed27a7",
+						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/kernels/PSN_pureCM_12%2B_smdk4x12_ANYROM-AROMA-v4.4.4_I9305_OC%20(1).zip",
+						"version": "AGNi PureCM v4.4.4",
+						"md5": "35B47CC61BEFE2F38E52A2CC5E526784",
 						"type": "kernel",
-						"size": 11057291
+						"size": 8062174
 					},
 					{
-						"url": "https://github.com/AntaresOne/antaresone.github.io/blob/master/multirom/jflte/multirom_uninstaller.zip",
+						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/multirom/m3/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
-						"size": 1575086,
-						"md5": "c65412c7b4bf7ee6f1afb51bbf68f462"
+						"size": 1570612,
+						"md5": "F6ABB4714BB8DD017038CA7DF23AEE5B"
 					}
 				],
 			"changelogs":
 				[
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/changelogs/changelog_multirom.txt",
+						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/multirom/m3/changelogs/changelog_multirom.txt",
 						"name": "MultiROM"
 					},
 					{
-						"url": "http://antaresone.github.io/multirom/jflte/changelogs/changelog_recovery.txt",
+						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/multirom/m3/changelogs/changelog_recovery.txt",
 						"name": "Recovery"
 					}
 				],
-			"name": "jflte",
+			"name": "m3",
 			"ubuntu_touch":
 				{
 					"req_multirom": "",
