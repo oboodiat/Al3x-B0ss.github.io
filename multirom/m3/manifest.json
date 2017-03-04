@@ -8,7 +8,7 @@
 			{"files":
 				[
 					{
-						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/multirom/m3/TWRP_multirom_m3_20150829-00.img",
+						"url": "https://github.com/oboodiat/Al3x-B0ss.github.io/blob/master/blob/master/multirom/m3/TWRP_multirom_m3_20150829-00.img",
 						"version": "32",
 						"type": "multirom",
 						"size": 3599041,
@@ -23,7 +23,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/kernels/PSN_AGNi_pureSTOCK-v5.9.3-4.4.x_I9305_AROMA.zip",
+						"url": "https://github.com/oboodiat/Al3x-B0ss.github.io/blob/master/blob/master/kernels/PSN_AGNi_pureSTOCK-v5.9.3-4.4.x_I9305_AROMA.zip",
 						"version": "AGNi PureSTOCK v5.9.3",
 						"md5": "5A9FA88934065DA434ABABF9C548A92B",
 						"type": "kernel",
@@ -31,14 +31,14 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/kernels/PSN_pureCM_12%2B_smdk4x12_ANYROM-AROMA-v4.4.4_I9305_OC%20(1).zip",
+						"url": "https://github.com/oboodiat/Al3x-B0ss.github.io/blob/master/blob/master/kernels/PSN_pureCM_12%2B_smdk4x12_ANYROM-AROMA-v4.4.4_I9305_OC%20(1).zip",
 						"version": "AGNi PureCM v4.4.4",
 						"md5": "35B47CC61BEFE2F38E52A2CC5E526784",
 						"type": "kernel",
 						"size": 8062174
 					},
 					{
-						"url": "https://github.com/Al3x-B0ss/Al3x-B0ss.github.io/blob/master/blob/master/multirom/m3/multirom_uninstaller.zip",
+						"url": "https://github.com/oboodiat/Al3x-B0ss.github.io/blob/master/blob/master/multirom/m3/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
 						"size": 1570612,
